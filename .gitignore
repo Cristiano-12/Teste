@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+dist
+build
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+.vercel
+*.zip
+upload
+northframe-site-archive.tar.gz
+.codex
+.agents
+.aws
+scripts/push_site_source.py
